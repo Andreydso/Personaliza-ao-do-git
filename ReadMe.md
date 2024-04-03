@@ -1,4 +1,4 @@
-# 🖥 Olá. Meu nome é Andrey.
+# 🖥 Olá. Meu nome é Andrey Oliveira.
 ## Sou um estudante do ensino Médio e estou cursando o Ensino Técnico na Etec no curso de Técnico de Informática.💻Tenho conhecimento em Desenvolvimento Front-end e, na Etec, estou estudando o Back-end, além de outras coisas como C#. MySQ, PHP,Linux e Redes de Comunicação de Dados.👨🏾‍💻
 <br/>
 

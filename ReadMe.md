@@ -1,4 +1,5 @@
-# 🖥 Olá. Meu nome é Andrey, sou um estudante do ensino Médio e estou cursando o Ensino Técnico na Etec no curso de Técnico de Informática.💻Tenho conhecimento em Desenvolvimento Front-end e, na Etec, estouestudando o Back-end, além de outras coisas como C#. MySQ, PHP,Linux e Redes de Comunicação de Dados.👨🏾‍💻:
+# 🖥 Olá. Meu nome é Andrey.
+## Sou um estudante do ensino Médio e estou cursando o Ensino Técnico na Etec no curso de Técnico de Informática.💻Tenho conhecimento em Desenvolvimento Front-end e, na Etec, estou estudando o Back-end, além de outras coisas como C#. MySQ, PHP,Linux e Redes de Comunicação de Dados.👨🏾‍💻
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)

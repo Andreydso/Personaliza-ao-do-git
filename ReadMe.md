@@ -26,9 +26,9 @@
 
 <br/>
 
-## Citação de um Dev
+## 💬Citação de um Dev
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Andreydso&icon=2&color=4)](https://visitcount.itsvg.in)

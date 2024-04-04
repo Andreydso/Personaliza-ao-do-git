@@ -2,6 +2,12 @@
 ## Sou um estudante do ensino Médio e estou cursando o Ensino Técnico na Etec no curso de Técnico de Informática.💻Tenho conhecimento em Desenvolvimento Front-end e, na Etec, estou estudando o Back-end, além de outras coisas como C#. MySQ, PHP,Linux e Redes de Comunicação de Dados.👨🏾‍💻
 <br/>
 
+<div>
+  <img height="180em" src="https://githubcard.vinicioslop.com.br/api?username=vinicioslop&show_icons=true&&include_all_commits=true&theme=synthwave"/>
+  <img height="180em" src="https://githubcard.vinicioslop.com.br/api/top-langs/?username=vinicioslop&layout=compact&theme=synthwave"/>
+</div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreydso&theme=highcontrast&hide_border=false)

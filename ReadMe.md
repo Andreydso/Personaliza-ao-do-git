@@ -25,7 +25,8 @@
 
 
 <br/>
-## Citações de um Dev
+## Citação de um Dev
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---

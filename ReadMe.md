@@ -5,12 +5,8 @@
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreydso&theme=highcontrast&hide_border=false"/>
 </div>
-
-
-![](https://github-readme-stats.vercel.app/api?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Andreydso&theme=highcontrast&hide_border=false)
 
 
 ## 🌐 Redes Sociais:

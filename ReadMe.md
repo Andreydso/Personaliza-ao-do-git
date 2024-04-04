@@ -3,8 +3,8 @@
 <br/>
 
 <div>
-  <img height="180em" src="[https://githubcard.vinicioslop.com.br/api?username=vinicioslop&show_icons=true&&include_all_commits=true&theme=synthwave](https://github-readme-stats.vercel.app/api?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)"/>
-  <img height="180em" src="[https://githubcard.vinicioslop.com.br/api/top-langs/?username=vinicioslop&layout=compact&theme=synthwave](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreydso&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 
